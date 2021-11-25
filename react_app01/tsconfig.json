@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "target": "ES2015",
+        "lib": [
+            "DOM",
+            "ESNext"
+        ],
+        "module": "ES2015",
+        "esModuleInterop": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noUnusedParameters": true,
+        "moduleResolution": "node",
+        "jsx": "react-jsx",
+        "allowJs": true
+    }
+}
